@@ -5,7 +5,7 @@ function Footer(){
     return(
         <div>
             <div class="footer__col">
-                <img src={logo}/>
+                <img src={logo} alt="logo"/>
                 <br/>
                 Copyright © 2022 Ciclo Project. <br/>
                 Todos los derechos reservados.
