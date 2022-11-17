@@ -10,6 +10,10 @@ import ContactUs from "./components/ContactUs";
 import OurVision from "./components/OurVision";
 import OurMission from "./components/OurMission";
 import AboutUs from "./components/AboutUs";
+import Ciclistas from "./components/Ciclistas";
+import Pasos from "./components/Pasos";
+import  AboutProduct from "./components/AboutProduct";
+import Planes from "./components/Planes";
 
 function App() {
   return (
@@ -20,6 +24,10 @@ function App() {
         <Info/>
         <Testimonios/>
         <Faq/>
+        <Ciclistas/>
+        <Pasos/>
+        <AboutProduct/>
+        <Planes/>
         <AboutUs/>
         <OurMission/>
         <OurVision/>
